@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="clRoot" type="id" />
+    <item name="ivLeft" type="id" />
+    <item name="tvRight" type="id" />
+    <item name="tvBottom" type="id" />
+
+    <item name="guideline" type="id" />
+
+</resources>
